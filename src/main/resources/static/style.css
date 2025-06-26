@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 2rem;
+}
+button {
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+}
+button:focus {
+    outline: none;
+    box-shadow: none;
+}
+table td, table th {
+    text-align: center;
+}
